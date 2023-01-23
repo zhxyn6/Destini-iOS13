@@ -19,6 +19,8 @@ class ViewController: UIViewController {
 
     }
 
-
+    @IBAction func choicMade(_ sender: UIButton) {
+    }
+    
 }
 
